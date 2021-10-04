@@ -1,6 +1,6 @@
 # Automatic Login To Facebook !
 
-###Before start to run the code, first confirm that the following setup install in your machine.
+##Before start to run the code, first confirm that the following setup install in your machine.
 
 1. Install python3
 2. Selenium ( https://selenium-python.readthedocs.io/getting-started.html )
