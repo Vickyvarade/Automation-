@@ -23,6 +23,6 @@ login =driver.find_element_by_xpath('/html/body/div[1]/div[2]/div[1]/div/div/div
 
 print("\n------ LOGIN SUCCESSFULLY ------\n")  #after successfully login print statement executed
 
-#driver.close()
+#driver.close() #we can also close browser from this line 
 
 
