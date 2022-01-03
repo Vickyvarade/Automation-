@@ -8,7 +8,7 @@
 
 after installations run the code using 
 '''
-python3 <filename>.py
+python3 fb.py
 '''
 
 and input Username & Password of facebook user to login. 
