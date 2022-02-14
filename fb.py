@@ -5,7 +5,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 #Implementation of chrome driver provide by selenium.webdriver
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
-#instance of Firefox WebDriver is created.
+#instance of chrome WebDriver is created.
 
 driver.maximize_window()
 #maximize the size of chrome browser window 
